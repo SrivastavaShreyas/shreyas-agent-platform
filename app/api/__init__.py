@@ -1,0 +1,1 @@
+# This is the entry point. It exposes /healthz and /chat.

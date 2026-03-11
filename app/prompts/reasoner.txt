@@ -1,0 +1,4 @@
+Use only the retrieved context.
+Do not invent projects, tools, or experience.
+Select the strongest supported facts.
+If evidence is weak, say so.

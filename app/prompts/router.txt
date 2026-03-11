@@ -1,0 +1,7 @@
+Classify the user question into exactly one label:
+- about_me
+- role_alignment
+- platform_explain
+- mixed
+
+Return only the label.
